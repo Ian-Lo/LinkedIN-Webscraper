@@ -13,7 +13,6 @@ import pandas as pd
 USERNAME =  input("Enter username: ")
 PASSWORD = input("Enter password: ")
 SEARCH = input("Enter LI Search URL: ") #"https://www.linkedin.com/search/results/people/?facetGeoRegion=%5B%22my%3A0%22%5D&keywords=salesforce%20developer&origin=FACETED_SEARCH&page=51"
-#WEBDRIVERPORT = 'http://localhost:9515' # 'http://localhost:' + input("Enter WebdriverPort: ")
 EMPLOYEE = 1000  # int(raw_input("Enter number of results: "))
 linkedin = 'https://www.linkedin.com'
 
